@@ -1319,6 +1319,11 @@ public class FakePlayer implements Player {
 	}
 
 	@Override
+	public void kick() {
+
+	}
+
+	@Override
 	public void kick(@Nullable Component component) {
 
 	}
